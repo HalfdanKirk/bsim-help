@@ -11,3 +11,14 @@
   font-style: italic;
   color: #555;
 }
+
+
+#gray_background {
+  background-color: gray;
+  padding: 10px;
+}
+
+#red_text {
+  color: red;
+
+}
