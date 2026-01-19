@@ -10,8 +10,8 @@
 
 ### Introduktion 
 * [Leveringsbetingelser og ansvarsforhold](05Introduktion/05_01_Leveringsbetingelser_og_ansvarsforhold.md)
-* [Opbygning af hjælp](05Introduktion/05_02_Opbygning_af_hjælp.md)
-* [Udskrift af hjælpesider](05Introduktion/05_03_Udskrift_af_hjælpesider.md)
+    * [Opbygning af hjælp](05Introduktion/05_02_Opbygning_af_hjælp.md)
+        * [Udskrift af hjælpesider](05Introduktion/05_03_Udskrift_af_hjælpesider.md)
 * [Læsevejledning](05Introduktion/05_04_Læsevejledning.md)
 * [Begrænsninger](05Introduktion/05_05_Begrænsninger.md)
 * [Genvejstaster](05Introduktion/05_06_Genvejstaster.md)
