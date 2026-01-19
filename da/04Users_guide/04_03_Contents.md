@@ -1,5 +1,4 @@
 # BSim - Brugervejledning
-<div id="da">
 
 *   [Kolofon](https://help.bsim.dk/support/kb/articles/z9MKXam4/kolofon)
 
