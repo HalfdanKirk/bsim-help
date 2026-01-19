@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="../style.css">
 
-# Regulering af gulvvarme
+# Control strategy for floor heating and cooling
+
 ### RADIANT HEATING/COOLING MODULE FOR BSim
    
 By Massimiliano Scarpa
