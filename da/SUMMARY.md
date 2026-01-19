@@ -2,9 +2,9 @@
 
 ### Brugervejledning
 
-* [Kolofon](04Brugervejledning/04_01_Kolofon.md)
-* [Forord](04Brugervejledning/04_02_Forord.md)
-* [BSim - Brugervejledning](04Brugervejledning/04_03_BSim-Brugervejledning.md)
+* [Kolofon](04Users_guide/04_01_Colophone.md)
+* [Forord](04Users_guide/04_02_Foreword.md)
+* [BSim - Brugervejledning](04Users_guide/04_03_Contents.md)
 
 ----
 
